@@ -11,7 +11,7 @@ Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://safety13.github.io/repo/depictions/?p=com.supermamon.newpackage
-SileoDepiction:https://safety13.github.io/repo/depictions/?p=com.supermamon.newpackage/Test
+SileoDepiction:https://safety13.github.io/repo/sileo-depictions/com.supermamon.newpackage
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
