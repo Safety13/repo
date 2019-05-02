@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Full Package",
+          "title": "New Package",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -37,7 +37,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Test",
+          "markdown": "Test Package",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -49,7 +49,7 @@
           "class": "DepictionHeaderView"
         },
         {
-          "markdown": "",
+          "markdown": "Nothing",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
