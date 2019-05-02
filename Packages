@@ -10,8 +10,8 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://frrepo.github.io/repo/depictions/?p=com.supermamon.newpackage
-SileoDepiction:https://frrepo.github.io/repo/depictions/?p=com.supermamon.newpackage/Test
+Depiction: https://safety13.github.io/repo/depictions/?p=com.supermamon.newpackage
+SileoDepiction:https://safety13.github.io/repo/depictions/?p=com.supermamon.newpackage/Test
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
