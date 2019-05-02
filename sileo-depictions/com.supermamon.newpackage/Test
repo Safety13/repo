@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Test",
+          "title": "Full Package",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
